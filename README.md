@@ -18,4 +18,4 @@ Apache Ignite plugin provides a convenient and easy-to-use interface for develop
 
 ***SCREENSHOT***
 
-[![V1](https://i.imgur.com/tys0ftk.jpg)]()
+[![V1](https://i.imgur.com/Yt0L1rX.jpg)]()
