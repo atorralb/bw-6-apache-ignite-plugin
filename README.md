@@ -44,7 +44,7 @@ Apache Ignite plugin provides a convenient and easy-to-use interface for develop
 
 ***WIKI***
 
-https://community.tibco.com/wiki/tibco-businessworkstm-6-plug-apache-ignite
+https://community.tibco.com/wiki/tibco-businesswork-6-plugin-apache-ignite
 
 
 ***ISSUES, BUGS, SUGGESTIONS, REQUESTS***
