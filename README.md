@@ -16,8 +16,6 @@ Apache Ignite plugin provides a convenient and easy-to-use interface for develop
 3. Bigdata and streaming in-memory grid  connector for front end datawarehouses such as Tableau, Spotfire, Qliksense  and others
 
 
-***SCREENSHOT***
-
-[![V1](https://i.imgur.com/Yt0L1rX.jpg)]()
+***DEMO***
 
 [![ demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1586533871/video_to_markdown/images/youtube--fC14wk8e0Uo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=fC14wk8e0Uo " demo")
