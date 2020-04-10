@@ -28,13 +28,21 @@ Apache Ignite plugin provides a convenient and easy-to-use interface for develop
 3. JDK 1.8
 
 ***INSTALLATION***
+
+
 [TO DO]
 
 ***DEVELOPEMENT GUIDE***
+
+
 [TO DO]
 
 ***DEVELOPER'S  GUIDE***
+
+
 [TO DO]
 
 ***ISSUES, BUGS, SUGGESTIONS, REQUESTS***
+
+
 Please submmit them on github's issues
